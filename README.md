@@ -6,3 +6,4 @@ The model i am choosing for this system is an automatic door system. The automat
 ### FSM Diagram
 ![FSM Diagram](FSM_Diagram.png)
 ### State and transition table
+![Table](table-chart.png)

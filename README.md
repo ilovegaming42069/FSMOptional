@@ -5,3 +5,4 @@ The model i am choosing for this system is an automatic door system. The automat
 ## 2. Please design the model using: FSM, state and transition table, as well as the Karnaugh Map
 ### FSM Diagram
 ![FSM Diagram](FSM_Diagram.png)
+### State and transition table

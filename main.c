@@ -11,7 +11,7 @@ void doors_closed() {
     printf("|        |        |\n");
     printf("|        |        |\n");
     printf("|________|________|\n");
-    printf("   Door is closed\n");
+    printf("  Door is closed\n");
 }
 
 void doors_opening() {
@@ -66,7 +66,7 @@ int main(void) {
         } 
         printf("Enter button input (0 if the sensor does not detect a person // 1 if the sensor detects a person): ");
         scanf("%d", &P);
-        printf("Enter button input (0 if the time for door closing/opening has not passed// 1 if the time for door closing/opening has passed): ");
+        printf("Enter button input (0 if the time for door closing/opening has not passed // 1 if the time for door closing/opening has passed): ");
         scanf("%d", &D);
 
 

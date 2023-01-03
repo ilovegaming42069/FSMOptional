@@ -7,3 +7,13 @@ The model i am choosing for this system is an automatic door system. The automat
 ![FSM Diagram](FSM_Diagram.png)
 ### State and transition table
 ![Table](table-chart.png)
+### Karnaugh Map
+- ##### Next State (s0) Karnaugh Map
+![KMAP1](KMAP-1.png)
+- ##### Next State (s1) Karnaugh Map
+![KMAP2](KMAP-2&3.png)
+- ##### Output (M) Karnaugh Map
+![KMAP3](KMAP-2&3.png)
+- ##### Output (S) Karnaugh Map
+![KMAP4](KMAP-4.png)
+

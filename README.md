@@ -4,18 +4,18 @@ The model i am choosing for this system is an automatic door system. The automat
 
 ## 2. Please design the model using: FSM, state and transition table, as well as the Karnaugh Map
 ### FSM Diagram
-![FSM Diagram](FSM_Diagram.png)
+![FSM Diagram](Images/FSM_Diagram.png)
 ### State and transition table
-![Table](table-chart.png)
+![Table](Images/statetransition.png)
 ### Karnaugh Map
 - ##### Next State (s0') Karnaugh Map
-![KMAP1](KMAP-1.png)
+![KMAP1](Images/KMAP-1.png)
 - ##### Next State (s1') Karnaugh Map
-![KMAP2](KMAP-2&3.png)
+![KMAP2](Images/KMAP-2&3.png)
 - ##### Output (M) Karnaugh Map
-![KMAP3](KMAP-2&3.png)
+![KMAP3](Images/KMAP-2&3.png)
 - ##### Output (S) Karnaugh Map
-![KMAP4](KMAP-4.png)
+![KMAP4](Images/KMAP-4.png)
 
 ## 3. Derive combinatorial boolean equations from K-map
 - #### Next State (s0) Karnaugh Map

@@ -19,7 +19,7 @@ The model i am choosing for this system is an automatic door system. The automat
 
 ## 3. Derive combinatorial boolean equations from K-map
 - #### Next State (s0) Karnaugh Map
-s0' = s0s̅1 + s̅0PD + s0P̅D̅ 
+s0' = s0s̅1 + s̅0s1D + s0P̅D̅ 
 - #### Next State (s1) Karnaugh Map
 s1' = s1D̅ + s̅0s̅1P + s0s̅1P̅
 - #### Output(M) Karnaugh Map

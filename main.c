@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
-#include "mylib.h"
+#include "mylib/mylib.h"
 
 void doors_closed() {
     printf(" _________________\n");

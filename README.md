@@ -39,39 +39,39 @@ S = s̅0s1 + PD̅ + s̅0P + s̅1P
 I ran the code by using gcc manually.
 
 
-![]
+![run](Images/test1.png)
 
 
 
 In the code i made, the state on the FSM starts at the doors closed (00) state. Below are all the possible outcomes that you can give
 - ### Doors closed state (00)
-![]
+![test](Images/test2.png)
 
 
-![]
+![test](Images/test3.png)
 - ### Doors opening state (01)
-![]
+![test](Images/test4.png)
 
 
-![]
+![test](Images/test5.png)
 
 - ### Doors open state (10)
-![]
+![test](Images/test6.png)
 
 
-![]
+![test](Images/test7.png)
 
 
 - ### Doors closing state (11)
-![]
+![test](Images/test8.png)
 
 
-![]
+![test](Images/test9.png)
 
 
-![]
+![test](Images/test10.png)
 - ### Extras
-![]
+![test](Images/test11.png)
 
 
 

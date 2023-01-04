@@ -62,8 +62,10 @@ In the code i made, the state on the FSM starts at the doors closed (00) state. 
 ![]
 
 
-![]
 - ### Doors closing state (11)
+![]
+
+
 ![]
 
 

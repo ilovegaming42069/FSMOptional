@@ -1,6 +1,10 @@
 # FSMOptional
 Name: Abdullah Akmal Sutoyo
+
+
 Class: L1BC
+
+
 NIM: 2602239320
 
 ## 1. Please choose a real system that can be modelled by an FSM.

@@ -28,5 +28,5 @@ M = s1D̅ + s̅0s̅1P + s0s̅1P̅
 S = s̅0s1 + PD̅ + s̅0P + s̅1P
 
 ## 4. Simulate the system in C with the equation that you just derived
-
+In the code i made, the state on the FSM starts at the doors closed (00) state.
 

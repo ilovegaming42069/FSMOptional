@@ -36,6 +36,13 @@ M = s1D̅ + s̅0s̅1P + s0s̅1P̅
 S = s̅0s1 + PD̅ + s̅0P + s̅1P
 
 ## 4. Simulate the system in C with the equation that you just derived
+I ran the code by using gcc manually.
+
+
+![]
+
+
+
 In the code i made, the state on the FSM starts at the doors closed (00) state. Below are all the possible outcomes that you can give
 - ### Doors closed state (00)
 ![]

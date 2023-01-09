@@ -56,7 +56,7 @@ int main(void) {
     int s0 = 0, s1 = 0, P, D, M = 0, S = 0;
     while (true) {
         printf("\033[2J");
-         printf("\033[1;1H");
+        printf("\033[1;1H");
         if (M == 0 && S == 0) {
             doors_closed();
         } else if (M == 1 && S == 1){
